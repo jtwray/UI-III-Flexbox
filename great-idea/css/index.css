@@ -287,6 +287,10 @@
         font-size: 14px;
     }
     
+    .services-header-img {
+        margin-top: 20px;
+    }
+    
     .textbox {
         border: 1px solid black;
         flex: 0 1 420px;
@@ -309,6 +313,6 @@
         display: flex;
     }
     
-    hr {
-        height: 3px;
+    body {
+        margin: 0 20px;
     }
